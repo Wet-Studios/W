@@ -1,4 +1,3 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 A Gorilla Tag Fan Game "W" Made By Wet Studios On Template by Glitched Cat
 
