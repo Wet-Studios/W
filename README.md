@@ -1,6 +1,7 @@
-# W
-A Gorilla Tag Fan Game "W" Made By Wet Studios On Template by Glitched Cat Studios. This project was made in Unity 6.3.
+A Gorilla Tag Fan Game "W" Made By Wet Studios On Template by Glitched Cat
 
-This Game is Quest Standalone + PCVR.
+ Studios. This project was made in Unity 6.3. This Game is Quest Standalone + PCVR.
 
-itch: https://lenwisjr.itch.io/random-gtag-fan-game
+ GitHub: https://github.com/Wet-Studios/W/tree/main?tab=readme-ov-file
+
+itch: W by lenwisjr
