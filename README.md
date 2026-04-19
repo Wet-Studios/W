@@ -4,4 +4,4 @@ A Gorilla Tag Fan Game "W" Made By Wet Studios On Template by Glitched Cat
 
  GitHub: https://github.com/Wet-Studios/W/tree/main?tab=readme-ov-file
 
-itch: W by lenwisjr
+itch: https://lenwisjr.itch.io/random-gtag-fan-game
